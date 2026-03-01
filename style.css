@@ -5,13 +5,14 @@ margin: 0%;
 padding: 0% 20px;
 
 }
-h1, h2, p{
-    color: rgb(234, 220, 245);
+h1{
+    color: rgb(100, 7, 241);
 }
 p{
     color: black;
     font-size:  18px; 
+
 }
-.heading_test {
-    color: brown;
+button:hover{
+background-color: blue;
 }
