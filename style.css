@@ -1,9 +1,8 @@
 body{
-font-family:Arial, Helvetica, sans-serif ;
-background-color:lightblue ;
-margin: 0%;
-padding: 0% 20px;
-
+    font-family:Arial, Helvetica, sans-serif ;
+    background-color:lightblue ;
+    margin: 0%;
+    padding: 0% 20px;
 }
 h1{
     color: rgb(100, 7, 241);
@@ -11,8 +10,10 @@ h1{
 p{
     color: black;
     font-size:  18px; 
-
 }
-button:hover{
-background-color: blue;
+h1:hover{
+    background-color: blue;
+}
+.about_player_images{
+    width: 200px;
 }
